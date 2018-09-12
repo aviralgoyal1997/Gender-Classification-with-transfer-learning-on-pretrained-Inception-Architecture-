@@ -71,7 +71,7 @@ This box is called an Inception module. Let’s take a closer look at what it’
 </p>
 *subdirectories in genders folder are used as classes so for diff classification use data of that category and make folder on basis of that.
 
-reference:
+REFERENCE:
 
 <a href='https://www.tensorflow.org/tutorials/image_recognition'>https://www.tensorflow.org/tutorials/image_recognition</a>
 
